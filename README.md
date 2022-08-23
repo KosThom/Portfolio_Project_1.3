@@ -4,4 +4,4 @@ Data cleaning, creation of pivot tables and finally of an interactive dashboard 
 2.Pivot Tables: Creation of pivot tables using the number of clients who actually bought a bike and those who did not, 
 combined with other data (education level, income etc).
 3.Dashboard: The dashboard contains some of the pivot tables created in the previous step, as well as some slicers in order 
-to include more data.
+to include more information.
